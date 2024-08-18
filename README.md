@@ -35,9 +35,9 @@ Inquirer prompt questions...
 
 README.MD example...
 
-![readme]![image](https://github.com/user-attachments/assets/65cf8c3f-88ba-4d17-a1f9-3408eb97dadd)
+![readme](https://github.com/user-attachments/assets/65cf8c3f-88ba-4d17-a1f9-3408eb97dadd)
 
-(https://github.com/user-attachments/assets/b1e54b9e-4820-40e6-a596-0bce2e8ef663)
+![morereadme](https://github.com/user-attachments/assets/b1e54b9e-4820-40e6-a596-0bce2e8ef663)
 
 
 ## Credits
