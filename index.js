@@ -49,11 +49,19 @@ inquirer
   ])
 
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
-``
+function writeToFile(fileName, data) {
+  fs.writeFile(`./dist/${fileName}`, data, function (err) {
+    if (err) {
+      throw err
+    }
+    console.log('Your README file has been generated...')
+  })
+};
 
 // TODO: Create a function to initialize app
-function init() {}
+function init() {
+  return inquirer.prompt(questions);
+}
 
 // Function call to initialize app
 init();
