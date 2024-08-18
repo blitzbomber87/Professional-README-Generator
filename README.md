@@ -31,7 +31,7 @@ Video Walkthrough here....https://drive.google.com/file/d/19dCnJ2xYoUqaM9pybKWOI
 
 Inquirer prompt questions...
 
-![questions]![image](https://github.com/user-attachments/assets/7f409d79-7dc9-4e79-a98b-65946161fd18)
+![questions](https://github.com/user-attachments/assets/7f409d79-7dc9-4e79-a98b-65946161fd18)
 
 README.MD example...
 
