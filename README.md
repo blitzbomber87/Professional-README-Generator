@@ -31,11 +31,14 @@ Video Walkthrough here....https://drive.google.com/file/d/19dCnJ2xYoUqaM9pybKWOI
 
 Inquirer prompt questions...
 
-![questions]
+![questions]![image](https://github.com/user-attachments/assets/7f409d79-7dc9-4e79-a98b-65946161fd18)
 
 README.MD example...
 
-![readme]
+![readme]![image](https://github.com/user-attachments/assets/65cf8c3f-88ba-4d17-a1f9-3408eb97dadd)
+
+(https://github.com/user-attachments/assets/b1e54b9e-4820-40e6-a596-0bce2e8ef663)
+
 
 ## Credits
 Eli - https://github.com/blitzbomber87
